@@ -8,4 +8,8 @@ List of coding challenges within JavaScript workshop as follows;
 
 - [03- Reverse Strings](./CC-03/README.md)
 
+- [04- Merge Arrays](./CC-04/README.md)
+
+- [05- Vowels in a string](./CC-05/README.md)
+
 
